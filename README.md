@@ -39,8 +39,27 @@ The dataset used includes features such as:
 - Confusion Matrix
 - ROC-AUC Score
 
+
+
 ## Visualizations :
 - Correlation heatmaps
 - Countplots and bar graphs
 - Pairplots for class distributions
 - Confusion matrices for classifier comparisons
+
+## Libraries Used :
+- Pandas
+- Numpy
+- Malplotlib
+- Seaborn
+- Scikit-learn
+
+## Future Work :
+- Hyperparameter tuning (GridSearchCV or RandomizedSearchCV)
+- Cross-validation for robust evaluation
+- Deployment as a web app using Flask or Streamlit
+- Integration with health apps for real-time prediction
+
+## Author :
+Sarthak Tiwari (github_Sorthak)
+If you find this project useful, consider giving it a star !
