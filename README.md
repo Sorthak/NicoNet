@@ -61,5 +61,5 @@ The dataset used includes features such as:
 - Integration with health apps for real-time prediction
 
 ## Author :
-Sarthak Tiwari (github_Sorthak)  
+**Sarthak Tiwari**[github_Sorthak]  
 If you find this project useful, consider giving it a star !
